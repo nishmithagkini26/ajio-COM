@@ -13,7 +13,7 @@
  *  implied.  See the License for the specific language governing
  *  permissions and limitations under the License.
  */
-package Ajio-COM;
+package ajiocom;
 
 /**
  * A sample Java based type converter helper class
