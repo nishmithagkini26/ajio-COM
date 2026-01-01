@@ -22,7 +22,7 @@
   <groupId>Ajio.com</groupId>
   <artifactId>ajio-COM</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>bundle</packaging>
+  <packaging>war</packaging>
   <name>Fabric8 :: Quickstarts :: Karaf :: Camel Dozer Wiki</name>
   <description>An example Camel project using a Dozer transform where the camel routes and transforms are maintained in the wiki</description>
 
